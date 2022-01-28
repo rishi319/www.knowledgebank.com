@@ -1,0 +1,32 @@
+#book{
+    width: 200px;
+}
+
+body{
+    text-align: center;
+    background-size: cover;
+}
+
+
+.book 
+{
+    margin-bottom: 20px;
+}
+
+#contact iframe
+{
+    width: 100%;
+}
+.header
+{
+    font-size: 50px;
+    
+}
+a
+{
+    font-size: 20px;
+    color: white;
+}
+
+
+
